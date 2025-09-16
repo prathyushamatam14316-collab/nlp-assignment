@@ -1,2 +1,0 @@
-# nlp-assignment
-assignment1
